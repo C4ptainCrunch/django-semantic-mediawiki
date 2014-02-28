@@ -1,0 +1,1 @@
+Use django semantic mediawiki API as a django ORM backend
